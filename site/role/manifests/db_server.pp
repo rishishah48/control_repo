@@ -1,4 +1,4 @@
 class role:db_server{
-include role:base
-include role:db
+include profile:base
+include profile:db
 }
